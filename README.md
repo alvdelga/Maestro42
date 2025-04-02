@@ -3,6 +3,14 @@
 **Grademe** es una herramienta de código abierto para practicar exámenes de 42 en local, con corrección automática, generación aleatoria de ejercicios y detección de bucles infinitos. Ideal para entrenar antes del examen real.
 
 ---
+## 📚 Palabras clave:
+`grademe` `42`, `Maestro42`, `exam 42`, `simulador ejercicios 42`, `Maestro 42 Madrid`, `auto correction 42`, `evaluación`, `corrección automática` `Grademe`.
+ 
+---
+
+## 🌍 Visítalo en:
+[https://github.com/alvdelga/Maestro42](https://github.com/alvdelga/Maestro42)
+
 
 ## 🚀 Características
 
