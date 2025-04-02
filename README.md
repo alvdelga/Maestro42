@@ -1,4 +1,4 @@
-# 🧪 Grademe - 42 Exam Emulator
+# 🧪 Maestro42 Exam Emulator
 
 **Grademe** es una herramienta de código abierto para practicar exámenes de 42 en local, con corrección automática, generación aleatoria de ejercicios y detección de bucles infinitos. Ideal para entrenar antes del examen real.
 
